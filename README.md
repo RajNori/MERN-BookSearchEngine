@@ -6,7 +6,7 @@ By Raj Nori.
 
 # Project Name
 
-> [Book Search Engine] (https://book-search-app2022.herokuapp.com/)
+> [Book Search Engine] (https://mern-booksearchapp.herokuapp.com/)
 
 ## Table of Contents
 * [General Info](#general-information)
