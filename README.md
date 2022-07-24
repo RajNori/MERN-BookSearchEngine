@@ -115,7 +115,8 @@ By Raj Nori.
 
 ![Screen](https://user-images.githubusercontent.com/98436665/180638024-5b8e212e-3af9-4c99-bf7e-c8220a242558.png)
 ![Auth](https://user-images.githubusercontent.com/98436665/180638032-785f5042-58c3-4b2e-bad0-a4562641f921.png)
-![MongoDB database](https://user-images.githubusercontent.com/98436665/180638157-85e05ed7-467f-4e6b-a450-c81dfb73c55f.png)
+![Database](https://user-images.githubusercontent.com/98436665/180651547-f3428766-f3d7-4f82-b3c1-e27136bd2c95.png)
+
 > Mongodb Atlas Cloud.
 
 ## Video
