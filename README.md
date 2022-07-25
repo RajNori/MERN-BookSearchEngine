@@ -120,7 +120,7 @@ By Raj Nori.
 > Mongodb Atlas Cloud.
 
 ## Video
-> [Video Walkthrough] (https://www.youtube.com/watch?v=m8ibWs5A0EA)
+> [Video Walkthrough] (https://youtu.be/LHf3TCPCd0M)
 
 ## Setup
 Clone onto your local machine or download Zip file and run `npm install` and then `npm start`. The local server is set to 3000 (and 3001 for graphql). Please ensure there are no other apps running on these ports.
